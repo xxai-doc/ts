@@ -7,3 +7,4 @@ Khodi ya le mahlweni ya webusayiti i xihlovo lexi pfulekeke, ya amukelekile ku p
 * [khodi ya le mahlweni](https://github.com/xxai-art/web)
 * [Tiphakiti ta ririmi ta sayiti hi ku angarhela](https://github.com/xxai-art/web/tree/main/i18n)
 * [Tiphakiti ta ririmi ta mimojula yo nghena](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Website Matsalwa ya Tindzimi to Tala](https://github.com/xxai-doc)
